@@ -26,10 +26,14 @@ Convert text files into spoken audio with ease using this Audiobook Generator. T
 
 ## Example
 
+```
 python audiobook_generator.py
+```
 
-## Author
+# Author
+
 ORIBEI ZECHARIAH
 
-## License
+# License
+
 This project is licensed under the MIT [License](https://github.com/zechariah16/Insta-Engagement-Bot?tab=MIT-1-ov-file).
