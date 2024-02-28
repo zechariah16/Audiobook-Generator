@@ -36,4 +36,4 @@ ORIBEI ZECHARIAH
 
 # License
 
-This project is licensed under the MIT [License](https://github.com/zechariah16/Insta-Engagement-Bot?tab=MIT-1-ov-file).
+This project is licensed under the MIT [License](https://github.com/zechariah16/Audiobook-Generator/blob/main/LICENSE).
